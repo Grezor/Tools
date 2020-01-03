@@ -54,5 +54,5 @@
 
 
 
-
+- Bracket Pair Colorized
 
