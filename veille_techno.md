@@ -15,3 +15,7 @@
 > Il accueille des fils d'actualités liés à l'informatique et aux développements de logiciels, ainsi que des ressources tels que des tutoriels et des FAQ, alors que le nom de domaine developpez.net propose des forums.
 
 [liens Developpez.com](https://www.developpez.com/)
+
+https://www.easypartner.fr/blog/veille-technologique-methode-outils/
+
+https://sidebar.io/
