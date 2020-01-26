@@ -8,7 +8,7 @@
 
 - Font [Cascadia Code](https://github.com/microsoft/cascadia-code)
 - Font size: 16
-- Line height: 24
+- Line height: 24 ou 26
 
 
 ### Extensions

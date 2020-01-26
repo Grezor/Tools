@@ -53,6 +53,7 @@
 - **les joie du code** : l'instant GIF des développeurs - humour de dev. [lien](https://lesjoiesducode.fr/).
 
 
-
-- Bracket Pair Colorized
+- TODO tree [lien](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+- Bracket Pair Colorized [lien](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+- Material Icon Theme [lien]()
 
