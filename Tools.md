@@ -1,5 +1,3 @@
-Hello je suis débutant 
-
 # Tools 		
 
 Depuis que j'ai commencé le développement we il y a 3 ans. Je suis tombé amoureux de ce domaine, le fait de voir en temps réel la construction du projet prendre forme, c'est quelque chose de qui me fascine.
