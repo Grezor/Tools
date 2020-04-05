@@ -33,3 +33,5 @@ Par exemple ```git checkout ```, la commande checkout est une commande git fréq
 	plom = pull origin master
 	ploh = pull origin HEAD
 	```
+
+	D'autres alias seront disponible bientot
