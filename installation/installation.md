@@ -7,4 +7,5 @@
 - Docker Hub
 - NodeJS
 - Git / Github
-- 
+- Redis
+- Windows Terminal
