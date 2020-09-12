@@ -8,12 +8,11 @@
 - Font size: 16
 - Line height: 24 ou 26
 
-
 ### Extensions
 - Markdown All in One
 - Markdown Preview Github Styling
 
-### Themes 
+## Themes 
 - **Andromeda** : [Lien de telechargement ](https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda)
 - **Cyberpunk** : [Lien de telechargement](https://marketplace.visualstudio.com/items?itemName=max-SS.cyberpunk)
 - **Dracula** : [Lien de telechargement](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)

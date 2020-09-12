@@ -9,8 +9,3 @@ liens : https://dev.to/lampewebdev/the-guide-to-visual-studio-code-shortcuts-hig
 
 ## pour aller a la ligne : 
 ```press ctrl + g```, puis taper la ligne
-
-
-
-
-
