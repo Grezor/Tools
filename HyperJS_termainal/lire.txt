@@ -1,0 +1,3 @@
+le chemin pour la configuration se trouve : 
+- C:\Users\nompc\AppData\Roaming\Hyper
+puis selectioner hyper.js

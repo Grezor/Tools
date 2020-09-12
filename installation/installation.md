@@ -9,3 +9,5 @@
 - Git / Github
 - Redis
 - Windows Terminal
+- Insommnia
+  
