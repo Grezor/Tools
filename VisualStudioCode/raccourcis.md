@@ -7,7 +7,8 @@ liens : https://dev.to/lampewebdev/the-guide-to-visual-studio-code-shortcuts-hig
     Press Enter
     ```
 
-## pour aller a la ligne : ```press ctrl + g```, puis taper la ligne
+## pour aller a la ligne : 
+```press ctrl + g```, puis taper la ligne
 
 
 
