@@ -3,5 +3,5 @@
 - Fonts Ninja 
 - GoFullPage - Full Page Screen Capture
 - JSON viewer Awesome
-- React Developer Toools
+- React Developer Tools
   

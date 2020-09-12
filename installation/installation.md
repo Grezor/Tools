@@ -1,13 +1,15 @@
-## Installation Logiciel: 
+# Installation Logiciels : 
 
-- composer
+- composer 
 - Visual Studio Code
-- Postman 
-- Android Studio
 - Docker Hub
 - NodeJS
-- Git / Github
+- Git 
 - Redis
 - Windows Terminal
-- Insommnia
-  
+- Insommnia / Postman 
+- Mark text 
+- Wamp 
+- Heidi SQL
+- MYSQL Workbench
+- Android Studio
