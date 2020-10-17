@@ -39,3 +39,4 @@ git config --global commit.gpgsign true # Optionnel
 
 Pourquoi il est marquer unverified ?
 
+- erreur de l'adresse mail
