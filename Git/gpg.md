@@ -1,9 +1,10 @@
-Pour generer une clée : 
+# Pour generer une clée : 
 - gpg --full-gen-key
 - taper une phrase pour chiffrer la clef
     - reconfirmer la clée
 
 - gpg --list-secret-keys --keyid-format LONG
+
 ```sh
 /Users/max/.gnupg/pubring.kbx
 -----------------------------
@@ -29,3 +30,9 @@ Dans l'exemple ci-dessus la série de chiffre **XXXXXXXXXXXXXXX** représente l'
 ```
 
 Il ne vous reste plus qu'à ajouter votre clef publique dans les paramètres de votre compte Github.
+
+```
+git config --global gpg.program gpg
+git config --global user.signingkey [key-id]
+git config --global commit.gpgsign true # Optionnel
+```
