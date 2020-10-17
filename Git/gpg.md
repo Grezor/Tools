@@ -36,3 +36,6 @@ git config --global gpg.program gpg
 git config --global user.signingkey [key-id]
 git config --global commit.gpgsign true # Optionnel
 ```
+
+Pourquoi il est marquer unverified ?
+
