@@ -23,13 +23,18 @@ Dans l'exemple ci-dessus la série de chiffre **XXXXXXXXXXXXXXX** représente l'
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 .
-.
+.       LA KEY
 .
 
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-Il ne vous reste plus qu'à ajouter votre clef publique dans les paramètres de votre compte Github.
+Il ne vous reste plus qu'à ajouter votre clef publique dans les paramètres de votre compte Github. Qui se trouve : 
+- Settings : 
+    - GPG keys
+    - new gpg key
+    - inserer votre blog de dessus
+    - save
 
 ```
 git config --global gpg.program gpg
@@ -40,3 +45,4 @@ git config --global commit.gpgsign true # Optionnel
 Pourquoi il est marquer unverified ?
 
 - erreur de l'adresse mail
+- plus d'infos 

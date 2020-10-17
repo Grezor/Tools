@@ -5,9 +5,6 @@
 
 - **Prezi** : Création diaporama design et dynamique [Prezi](https://prezi.com/) 
 
-
-
-
 ### Indentation, memo, autres :
 
 - **indent-rainbow** [Lien de telechargement](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
