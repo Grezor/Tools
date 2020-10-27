@@ -14,7 +14,12 @@ Dans les paramètres de vs code :
     - par defaut : null
 
 - taper dans la recherche minimap > decocher : render caracters
-
+- pour afficher la ligne 120 mots, il faut ajouter :
+```json
+"editor.rulers": [
+    120
+],
+```
 # configuration json : mise a jour 17.10.2020
 
 ```json
@@ -30,3 +35,7 @@ Dans les paramètres de vs code :
     "editor.minimap.renderCharacters": false
 }
 ```
+
+## Autre infos :
+- Font size: 16
+- Line height: 24 ou 26
