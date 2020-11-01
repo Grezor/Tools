@@ -35,3 +35,5 @@ Press Enter
 ```ctrl + h``` 
 ## preview markdown
 ```ctrl + shift + v ``` 
+## open settings.json
+```ctrl + shift + p ``` > open settings json

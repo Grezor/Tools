@@ -10,6 +10,14 @@
 - Bookmarks
 - Todo +
 
+- auto Comment blocks
+- auto rename tag
+- Beautify
+- Color Highlight
+- ESLINT
+- Live Server
+- Path Autocomplete
+
 
 ### Autres  
 - Markdown All in One

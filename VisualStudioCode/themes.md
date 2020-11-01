@@ -21,3 +21,4 @@
 - **Fresh Material** [Lien ](https://marketplace.visualstudio.com/items?itemName=2ndshift.fresh-material)
 - **TinaciousDesign** : [Lien ](https://marketplace.visualstudio.com/items?itemName=tinaciousdesign.theme-tinaciousdesign)
 - **Atom One Dark Syntax Theme** : [Lien ](https://marketplace.visualstudio.com/items?itemName=andischerer.theme-atom-one-dark)
+- SynthWave '84 

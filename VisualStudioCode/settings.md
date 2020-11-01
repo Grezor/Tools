@@ -26,13 +26,28 @@ Dans les paramètres de vs code :
 {   
     // theme
     "workbench.colorTheme": "Tinacious Design",
-    // font family
+    // font family Cascadia Code
     "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
-    "editor.fontLigatures": true, //default (null)
+    "editor.lineHeight": 26,
+    "editor.fontSize": 15,
+    "editor.fontLigatures": true,
+
     // terminal bash git
-    "terminal.integrated.shell.windows": "C:\\Program Files\\logiciels\\Git\\bin\\bash.exe"
+    "terminal.integrated.shell.windows": "C:\\Program Files\\logiciels\\Git\\bin\\bash.exe",
+    "terminal.integrated.fontFamily": "Meslo LG M DZ for Powerline",
+
     // minimap
-    "editor.minimap.renderCharacters": false
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.maxColumn": 200,
+    "editor.minimap.showSlider": "always",
+    
+    // cursor
+    // "editor.cursorBlinking": "Phase",
+    // "editor.cursorSmoothCaretAnimation": true,
+    // "editor.cursorStyle": "block"
+    
+    
+    
 }
 ```
 
