@@ -1,4 +1,4 @@
-## PC perso : 
+## Personal PC : 
 
 **dark**
 - [Tinacious](https://marketplace.visualstudio.com/items?itemName=tinaciousdesign.theme-tinaciousdesign)
@@ -6,7 +6,7 @@
 
 **light**
 
-## PC professionnel : 
+## Professional PC : 
 
 **dark**
 - [Tinacious](https://marketplace.visualstudio.com/items?itemName=tinaciousdesign.theme-tinaciousdesign)
@@ -15,10 +15,10 @@
 **light**
 
 ## Autre themes : 
-- **Andromeda** : [Lien  ](https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda)
-- **Cyberpunk** : [Lien ](https://marketplace.visualstudio.com/items?itemName=max-SS.cyberpunk)
-- **Dracula** : [Lien ](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
-- **Fresh Material** [Lien ](https://marketplace.visualstudio.com/items?itemName=2ndshift.fresh-material)
-- **TinaciousDesign** : [Lien ](https://marketplace.visualstudio.com/items?itemName=tinaciousdesign.theme-tinaciousdesign)
-- **Atom One Dark Syntax Theme** : [Lien ](https://marketplace.visualstudio.com/items?itemName=andischerer.theme-atom-one-dark)
-- SynthWave '84 
+- **Andromeda** : [link  ](https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda)
+- **Cyberpunk** : [link ](https://marketplace.visualstudio.com/items?itemName=max-SS.cyberpunk)
+- **Dracula** : [link ](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
+- **Fresh Material** [link ](https://marketplace.visualstudio.com/items?itemName=2ndshift.fresh-material)
+- **TinaciousDesign** : [link ](https://marketplace.visualstudio.com/items?itemName=tinaciousdesign.theme-tinaciousdesign)
+- **Atom One Dark** : [link](https://marketplace.visualstudio.com/items?itemName=andischerer.theme-atom-one-dark)
+- **SynthWave '84** : [link ](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)

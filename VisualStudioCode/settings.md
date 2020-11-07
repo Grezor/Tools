@@ -1,20 +1,21 @@
 # Configuration Vscode mode Developpeur 
 
-- extraire puis taper sur la font cascadia code
-    - aller dans le fichier ttf
-    - installez-les font, sur Windows
+- extract then type on the font cascadia code
+    - go to ttf file
+    - install them do, on Windows
 
 - [Installation fira font ](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions)
 - [Installation cascadia](https://github.com/microsoft/cascadia-code/wiki/Installing-Cascadia-Code)
 - [Repository cascadia code](https://github.com/microsoft/cascadia-code)
 
-Dans les paramètres de vs code : 
-- mettre dans font family ```'Cascadia Code', Consolas, 'Courier New', monospace```
-- mettre les ligatures : ```"editor.fontLigatures": true,```
-    - par defaut : null
+In the vscode settings: 
+- put in font family ```'Cascadia Code', Consolas, 'Courier New', monospace```
+- put on the ligatures : ```"editor.fontLigatures": true,```
+    - by default : null
 
-- taper dans la recherche minimap > decocher : render caracters
-- pour afficher la ligne 120 mots, il faut ajouter :
+- type in the minimap search > uncheck: render caracters
+- to display the 120-word line, add :
+
 ```json
 "editor.rulers": [
     120
@@ -45,12 +46,9 @@ Dans les paramètres de vs code :
     // "editor.cursorBlinking": "Phase",
     // "editor.cursorSmoothCaretAnimation": true,
     // "editor.cursorStyle": "block"
-    
-    
-    
 }
 ```
 
-## Autre infos :
+## Other information :
 - Font size: 16
 - Line height: 24 ou 26

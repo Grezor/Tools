@@ -7,31 +7,27 @@ type command Clear Editor History
 Press Enter
 ```
 
-## pour aller a la ligne : 
+## to get to the line : 
 ```press ctrl + g, puis taper la ligne```
 
 
-## manipulation de séléction 
+## selection manipulation
 ```alt + down/up```
-
 ## duplication de séléction
 ```shilf + alt + up/down```
-
-## suppression de ligne
+## line deletion
 ```ctrl + x```
-
-## atteindre tout 
+## reach all 
 ```ctrl + t```
-
-## activer/desactiver roadmap
+## activate/deactivateroadmap
 ```ctrl + w + x``` en meme temps
-## chercher un fichier
+## search for a file
 ```ctrl + e``` 
 ## go to files
 ```ctrl + p```
 ## go to line
 ```ctrl + g``` taper la ligne
-## rechercher / remplacer
+## search / replace
 ```ctrl + h``` 
 ## preview markdown
 ```ctrl + shift + v ``` 
