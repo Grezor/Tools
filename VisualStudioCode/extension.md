@@ -19,6 +19,13 @@
 - Path Autocomplete
 
 
-### Autres  
+### Autres   
 - Markdown All in One
 - Markdown Preview Github Styling
+
+## Extensions php
+- [PHP intelliSence](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense) 
+- [phpfmt - php formatter]()
+- [PHP Namespace Resolver]()
+
+- Vibrancy: attention probleme
