@@ -1,5 +1,5 @@
 # ajouter palette css
-- inspecter 
-- parametre 
-- onglet expériments
-- CSS overview
+    - inspecter 
+    - parametre 
+    - onglet expériments
+    - CSS overview
