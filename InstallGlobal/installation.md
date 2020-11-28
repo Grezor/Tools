@@ -13,3 +13,4 @@
 - Heidi SQL
 - MYSQL Workbench
 - Android Studio
+- Laragon

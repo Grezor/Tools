@@ -27,5 +27,6 @@
 - [PHP intelliSence](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense) 
 - [phpfmt - php formatter]()
 - [PHP Namespace Resolver]()
+- php Debug
 
 - Vibrancy: attention probleme
