@@ -1,4 +1,4 @@
-```json
+```JSON
    "workbench.colorCustomizations": {
       "terminal.background":"#1D2021",
       "terminal.foreground":"#A89984",
@@ -20,4 +20,5 @@
       "terminal.ansiRed":"#FB543F",
       "terminal.ansiWhite":"#A89984",
       "terminal.ansiYellow":"#FAC03B"
-    }```
+    }
+    ```
