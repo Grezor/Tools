@@ -3,7 +3,7 @@ Le terme alias est synonyme de raccourci. Les alias permettent de créer des com
 
 Par exemple ```git checkout ```, la commande checkout est une commande git fréquemment utilisée, qui s'ajoute aux frappes cumulées dans le temps. Je le vais donc modifier le fichier gitconfig et crée une commande ```git co ``` et me permet de donc d'économiser une précieuse puissance au bout des doigts. 
 
-```
+```ini
 [alias]
 	co = checkout
 	cob = checkout -b
@@ -33,5 +33,3 @@ Par exemple ```git checkout ```, la commande checkout est une commande git fréq
 	plom = pull origin master
 	ploh = pull origin HEAD
 	```
-
-	alias pour la signature 

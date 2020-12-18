@@ -1,4 +1,4 @@
-```bash
+```ini
     s = status
     d = diff --cached
     dl = diff HEAD HEAD^
