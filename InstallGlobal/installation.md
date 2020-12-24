@@ -1,16 +1,20 @@
 # Installation Logiciels : 
-
-- composer 
+```ini
+- composer 2.0
+- PHP
 - Visual Studio Code
 - Docker Hub
 - NodeJS
 - Git 
-- Redis
 - Windows Terminal
 - Insommnia / Postman 
 - Mark text 
-- Wamp 
 - Heidi SQL
 - MYSQL Workbench
-- Android Studio
 - Laragon
+
+// delete
+- Redis
+- wamp
+- Android Studio
+```
