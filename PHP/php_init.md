@@ -1,5 +1,7 @@
 # configuration du php.ini 
-
+```
+Ajouter ou a décommenter dans votre fichier 
+```
 ```ini
 output_buffering = Off # tampon de sortie ob_clean() ...
 expose_php = Off # pour cacher la version de php 
