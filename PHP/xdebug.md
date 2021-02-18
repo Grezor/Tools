@@ -1,4 +1,7 @@
 ## installation de xdebug : 
+```ini
+site officiel : https://xdebug.org/
+```
 
 - placer le fichier dans le **dossier ext**
     - avec comme nom : ```php_xdebug.dll```

@@ -1,1 +1,5 @@
 # Config : 
+
+onglet ressources : 
+
+    CPU : 

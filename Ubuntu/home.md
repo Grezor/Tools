@@ -1,6 +1,6 @@
-Vous trouverez ma configuration de ubuntu. 
+Vous trouverez ma configuration d'Ubuntu.
 
-Sur ma configuration personnel, j'ai décider de travailler sur du windows.
-Mais j'ai eu quelque soucis, sur windows, c'est pourquoi j'ai aussi crée mon environnement sur un linux. 
+Sur ma configuration personnelle, j'ai décidé de travailler sur du Windows.
+Mais j'ai eu quelques soucis, sur Windows, c'est pourquoi j'ai aussi créé mon environnement sur un Linux.
 
-Je pense apprendre sur un autre environnement peux permettre d'avoir de nouvelles connaissance, mais aussi dans les outils que l'on utilise pour pour voir juste mettre a jours, et non désinstaller et remettre une autre version.
+Je pense apprendre sur un autre environnement peut me permettre d'avoir de nouvelles connaissances.
