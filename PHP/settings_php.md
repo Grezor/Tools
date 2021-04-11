@@ -12,7 +12,6 @@
     - taper php -v 
         - affiche la version de php 
 
-
 ```
 PHP 8.0.0 (cli) (built: Nov 24 2020 22:02:57) ( ZTS Visual C++ 2019 x64 )
 Copyright (c) The PHP Group
