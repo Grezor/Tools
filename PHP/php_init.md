@@ -28,3 +28,5 @@ xdebug.discover_client_host=1
 xdebug.mode=debug
 xdebug.remote_handler=dbgp
 ```
+
+https://stackoverflow.com/questions/65162856/xdebug-step-debug-could-not-connect-to-debugging-client-tried-localhost900

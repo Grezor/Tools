@@ -17,10 +17,11 @@
 ├───oh-my-zsh # Bientot
 ├───os-trainings # Veille technoilogique bientot
 ├───PHP # configuration de php 
-├───Postman 
+├───Postman # configurations settings
 ├───trier
-├───Ubuntu
-├───VisualStudioCode
+├───Ubuntu // bientot disponible
+├───VisualStudioCode // vscode
 ├───Windows
-└───WindowsTerminal
+└───WindowsTerminal // terminal
 ```
+je vais crée un répertoire avec des idées
