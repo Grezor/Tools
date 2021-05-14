@@ -6,11 +6,11 @@
 ├───Composer # composer pour librairie php
 ├───Config-Perso 
 ├───Config-Pro # configuration entreprise
-├───Divers 
+├───Divers # BD, images, meme, gifs
 ├───Docker # Settings docker, autres
 ├───Eslint # bientot
 ├───Git # raccourcis, alias, memo
-├───Github # Contribution, bientot
+├───Github # Contribution, issues, commit
 ├───Insomnia # api => en attente d'idée
 ├───InstallGlobal # listes de tout mes logiciels
 ├───Laragon # Configuration php.ini, mysql, etc
@@ -24,4 +24,4 @@
 ├───Windows
 └───WindowsTerminal // terminal
 ```
-je vais crée un répertoire avec des idées
+
