@@ -1,29 +1,26 @@
 # Configurations : 
 
 ```bash
-├───Bashrc 
-├───Chrome # favoris, extensions
+├───Autres
+├───Bashrc
 ├───Composer # composer pour librairie php
-├───Config-Perso 
+├───Config-Perso
 ├───Config-Pro # configuration entreprise
-├───Divers # BD, images, meme, gifs
-├───Docker # Settings docker, autres
-├───Eslint # bientot
+├───Docker 
+├───Eslint
 ├───Git # raccourcis, alias, memo
 ├───Github # Contribution, issues, commit
 ├───Insomnia # api => en attente d'idée
 ├───InstallGlobal # listes de tout mes logiciels
 ├───Laragon # Configuration php.ini, mysql, etc
-├───oh-my-zsh # Bientot
-├───os-trainings # Veille technoilogique bientot
-├───PHP # configuration de php 
-├───Postman # configurations settings
-├───trier
-├───Ubuntu // bientot disponible
-├───VisualStudioCode // vscode
-├───Windows
-└───WindowsTerminal // terminal
+├───Navigateur # favoris, extensions
+├───NPM # gestionnaire de paquets officiel de Node.js
+├───oh-my-zsh # oh-my-posh
+├───os-trainings # liens veille technologique
+├───PHP # configuration php
+├───Powershell # configuration powershell windows Terminal
+├───Ubuntu
+├───VisualStudioCode # IDE
+├───Windows # configuration global
+└───WindowsTerminal # Configuration du terminal
 ```
-
-
-test
