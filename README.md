@@ -24,3 +24,4 @@
 ├───Windows # configuration global
 └───WindowsTerminal # Configuration du terminal
 ```
+update 2021
