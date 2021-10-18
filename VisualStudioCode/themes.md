@@ -22,3 +22,4 @@
 - **TinaciousDesign** : [link ](https://marketplace.visualstudio.com/items?itemName=tinaciousdesign.theme-tinaciousdesign)
 - **Atom One Dark** : [link](https://marketplace.visualstudio.com/items?itemName=andischerer.theme-atom-one-dark)
 - **SynthWave '84** : [link ](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
+- **LaserWave** : [link ](https://marketplace.visualstudio.com/items?itemName=jaredkent.laserwave)
