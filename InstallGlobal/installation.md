@@ -8,7 +8,6 @@
 - Git 
 - Windows Terminal
 - Insommnia / Postman 
-- Mark text 
 - Heidi SQL
 - MYSQL Workbench
 - Laragon

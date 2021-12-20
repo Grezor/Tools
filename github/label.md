@@ -36,3 +36,28 @@ Github fournit des étiquettes par défaut dans chaque nouveau référenciel.
 - dépendances [#b4a8d1] : Modifications qui affectent les dépendances, telles que les modifications de gemmes
 - dette technique [#ff7619] : Modifications qui suppriment ou mettent à jour de manière significative l'ancien code et / ou les dépendances inutilisés.
 - vérifié [#0e8a16] : 	Le problème du bug a été examiné et vérifié pour indiquer le problème et un PR doit être créé. Cette étiquette n'est pas nécessaire sur un bug PR.
+
+
+---
+
+
+Nom          | color     | Description           |
+---          | ---       | ---           | 
+Feat         | `#` | `add `    | 
+Fix          | `#` | ``    | 
+Style        | `#` | ``    | 
+Refactor     | `#` | `` | 
+Docs         | `#` | ``  | 
+Question     | `#` | `` | 
+Duplicate    | `#` | ``  | 
+Discussion       | `#` | `` | 
+Pink         | `#` | `` | 
+Maintenance       | `#FBCA04` | `` |  
+Bug          | `#FF2818` | ``   | 
+Help wanted       | `#009B00` | `` | 
+Framework | `#0052CC` |`` |
+
+Priority: Critical       | `#E11D21` | `` | 
+Priority: High       | `#EB6420` | `` | 
+Priority: Low       | `#009800` | `` | 
+Priority: Medium       | `#FBCA04` | `` | 
