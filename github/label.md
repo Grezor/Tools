@@ -43,7 +43,7 @@ Github fournit des étiquettes par défaut dans chaque nouveau référenciel.
 
 Nom          | color     | Description           |
 ---          | ---       | ---           | 
-Feat         | `#` | `add `    | 
+Feat         | `#` | `add new feature`    | 
 Fix          | `#` | ``    | 
 Style        | `#` | ``    | 
 Refactor     | `#` | `` | 
@@ -56,8 +56,17 @@ Maintenance       | `#FBCA04` | `` |
 Bug          | `#FF2818` | ``   | 
 Help wanted       | `#009B00` | `` | 
 Framework | `#0052CC` |`` |
+API | `#C0E6FF` |``|
+Clean | `#C0E6FF` |``|
 
+Nom          | color     | Description           |
+---          | ---       | ---           |
 Priority: Critical       | `#E11D21` | `` | 
 Priority: High       | `#EB6420` | `` | 
 Priority: Low       | `#009800` | `` | 
 Priority: Medium       | `#FBCA04` | `` | 
+
+Nom          | color     | Description           |
+---          | ---       | ---           |
+Clean | `#FFD4A0` |``|
+Clean | `#C0E6FF` |``|
