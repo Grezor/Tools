@@ -5,9 +5,7 @@
 ├─── Bashrc
 ├─── Composer # composer pour librairie php
 ├─── Config-Perso
-├─── Config-Pro # configuration entreprise
-├─── Docker 
-├─── Eslint
+├─── Config-Pro # configuration pro
 ├─── Git # raccourcis, alias, memo
 ├─── Github # Contribution, issues, commit
 ├─── Insomnia # api => en attente d'idée
@@ -19,10 +17,9 @@
 ├─── os-trainings # liens veille technologique
 ├─── PHP # configuration php
 ├─── Powershell # configuration powershell windows Terminal
-├─── Ubuntu
 ├─── VisualStudioCode # IDE
 ├─── Windows # configuration global
 └─── WindowsTerminal # Configuration du terminal
-└─── VPS # comming
+
 ```
 

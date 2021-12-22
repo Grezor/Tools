@@ -1,2 +1,0 @@
- - [lien1](https://guillaumebriday.fr/comment-jutilise-git-mes-astuces-et-bonnes-pratiques)
- - [lien2](https://guillaumebriday.fr/comment-jutilise-git-mes-astuces-et-bonnes-pratiques)
