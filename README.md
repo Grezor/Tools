@@ -20,6 +20,6 @@
 ├─── VisualStudioCode # IDE
 ├─── Windows # configuration global
 └─── WindowsTerminal # Configuration du terminal
-
+└─── Nvm-windows # updgrade version nodejs
 ```
 

@@ -4,7 +4,7 @@
     - rentrer dans un terminal:
     ```js
     // memo 
-    name: Geoffrey Duplessi // nom du compte git
+    name: nom_compte // nom du compte git
     email: adresse-mail@gmail.com // email github
     ```
     taper dans le terminal: 
