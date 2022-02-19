@@ -11,4 +11,6 @@
 - MYSQL Workbench
 - Laragon
 - Docker Hub 
+- Chrome/Extension
+
 ```
