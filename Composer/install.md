@@ -50,3 +50,5 @@ You are already using the latest available Composer version 2.1.3 (stable channe
 # Permet de lister les paquets obsolètes et qui auraient besoin d’une mise à jour (si possible, à adapter selon votre cas).
 > composer outdated
 ```
+
+Infos : a chaque changement de version de php, il faut relancer composer executable
