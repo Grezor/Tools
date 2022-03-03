@@ -15,6 +15,5 @@
     "php-cs-fixer.formatHtml": false,
     "php-cs-fixer.documentFormattingProvider": true,
     "php-cs-fixer.executablePathWindows": "D:\\Logiciel_pc\\Roaming\\Composer\\vendor\\tools\\php-cs-fixer\\vendor\\bin\\php-cs-fixer.  bat",
-    
 }
 ```
