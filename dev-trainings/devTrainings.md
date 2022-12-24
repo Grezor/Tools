@@ -1,27 +1,28 @@
-## veille techno : 
+## Global
 - [La ferme du web](https://www.lafermeduweb.net/)
 - [Commistrip](https://tympanus.net/codrops/)
 - [news.ycombinator.com](https://news.ycombinator.com/newest)
 - [developpez.com](https://www.developpez.com/)
 - [Commistrip](https://www.easypartner.fr/blog/veille-technologique-methode-outils/)
 - [sidebar.io](https://sidebar.io/)
-- [Commistrip](https://www.olivierpons.fr/)
+- [olivierpons](https://www.olivierpons.fr/)
 - [Roadmap.sh](https://roadmap.sh/)
 - [codecademy](https://www.codecademy.com/catalog)
 - [hackernoon.com](https://hackernoon.com/tagged/coding)
 - [dev.to](https://dev.to/)
 - [devUrls](https://devurls.com/)
+- [smashing-magazine](https://www.smashingmagazine.com/)
 
 ## Javascript 
 - [EcmaScript](https://tc39.es/ecma262/)
 - [StandardJS](https://standardjs.com/rules.html)
 
 ## CSS
-- [css-tricks.com**](https://css-tricks.com/)
-- [smashing-magazine](https://www.smashingmagazine.com/)
+- [css-tricks.com](https://css-tricks.com/)
 
 ## Github : 
 - [Features Github](https://github.com/features)
+- [Github Trending](https://github.com/trending)
 
 ## Docker : 
 - [docker blog](https://www.docker.com/blog/)
@@ -33,21 +34,21 @@
 - [Prezi](https://prezi.com/) 
 - [beautify code](https://ray.so/)
 
-# tools
+## tools
 - [Lien Adobe](https://color.adobe.com/fr/create)
 - [Lien site](https://fonts.google.com/)
 - [Postwoman officiel](https://hoppscotch.io/fr)
 - [script](https://www.olivierpons.fr/)
 
-# divertissement 
+## divertissement 
 - [Commitstrip](http://www.commitstrip.com/fr/)
 - [Joie du code ](https://lesjoiesducode.fr/)
 
-# visual studio code 
+## visual studio code 
 - [list all updates](https://code.visualstudio.com/updates/v1_74)
 - [feed vscode](https://code.visualstudio.com/feed.xml)
 
-# Reddit 
+## Reddit 
 - [reddit VSCode](https://www.reddit.com/r/vscode/)
 - [reddit Github](https://www.reddit.com/r/github/)
 - [reddit Laravel](https://www.reddit.com/r/laravel/)
@@ -55,5 +56,12 @@
 - [reddit Docker](https://www.reddit.com/r/docker/)
 - [reddit unixporn](https://www.reddit.com/r/unixporn/)
 
-# Reddit Games
-[Factorio](https://www.reddit.com/r/factorio/)
+## Reddit Games
+- [Factorio](https://www.reddit.com/r/factorio/)
+
+## laravel 
+- [laravel-code.tips](https://laravel-code.tips/)
+- [blog-laravel](https://blog.laravel.com/)
+- [Laravel Daily](https://laraveldaily.com/)
+- [Github laravel Daily](https://github.com/LaravelDaily/laravel-tips)
+- [dcblog](https://dcblog.dev/)
