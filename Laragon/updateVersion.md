@@ -8,7 +8,7 @@
 # Aller sur le site officiel de phpmyadmin
 # Télécharger la version all language (en zip)
 # vérifier laragon eteint
-# remplacer le phpMyAdmin
+# remplacer le phpMyAdmin-version par phpMyAdmin
     # directory : C:\laragon\etc\apps
     # replace name folder : **phpMyAdmin**
     # start laragon
