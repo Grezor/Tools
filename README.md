@@ -2,25 +2,26 @@
 
 ```
 ├─── Chrome
-│   └─── extensions
+│   └─── Extensions
 │   └─── brave
 ├─── Composer
+│   └─── Settings
 ├─── Config-Perso
 ├─── Config-Pro
 ├─── Docker
+│   └─── Settings
 ├─── Git
 │   └─── Settings
-│   └─── Stars
 ├─── Github
 │   ├─── Settings
 │   ├─── Perso
 │   └─── Stars
 ├─── InstallGlobal
 │   └─── Software
+│   └─── FixError
 ├─── Laragon
 ├─── MySQL Workbench
 ├─── HeidiSQL
-
 ├─── Veille
 ├─── PHP
 │   ├─── Settings
@@ -35,7 +36,8 @@
 │   ├─── Themes
 │   └─── trier
 ├─── Windows
-├─── WindowsTerminal
+│   └─── Settings
+├─── WindowsTerminals
 │   ├─── Settings
 │   ├─── Themes
 │   └─── oh-my-zsh
