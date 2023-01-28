@@ -1,5 +1,6 @@
 # Composer : 
 [lien de telechargement](https://getcomposer.org/download/)
+Infos : a chaque changement de version de php, il faut relancer composer executable
 
 rajouter le path commposer dans les variables d'environnement.
 
@@ -51,4 +52,3 @@ You are already using the latest available Composer version 2.1.3 (stable channe
 > composer outdated
 ```
 
-Infos : a chaque changement de version de php, il faut relancer composer executable

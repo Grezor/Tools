@@ -6,8 +6,8 @@
 │   └─── brave
 ├─── Composer
 │   └─── Settings
-├─── Config-Perso
-├─── Config-Pro
+│   └─── Ubuntu
+│   └─── Windows
 ├─── Docker
 │   └─── Settings
 ├─── Git
