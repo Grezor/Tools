@@ -1,29 +1,43 @@
 # Tools : 
 
 ```
-├───Chrome
-│   └───extensions
-├───Composer
-├───Config-Perso
-├───Config-Pro
-├───Docker
-├───Git
-├───github
-├───InstallGlobal
-├───Laragon
-├───npm
-├───nvm-windows
-├───oh-my-zsh
-├───os-trainings
-├───PHP
-├───Powershell
-├───Ubuntu
-├───VisualStudioCode
-│   ├───ConfigPro
-│   ├───Perso
-│   ├───Themes
-│   └───trier
-├───Windows
-├───WindowsTerminal
-└───wsl
+├─── Chrome
+│   └─── extensions
+│   └─── brave
+├─── Composer
+├─── Config-Perso
+├─── Config-Pro
+├─── Docker
+├─── Git
+│   └─── Settings
+│   └─── Stars
+├─── Github
+│   ├─── Settings
+│   ├─── Perso
+│   └─── Stars
+├─── InstallGlobal
+│   └─── Software
+├─── Laragon
+├─── MySQL Workbench
+├─── HeidiSQL
+
+├─── Veille
+├─── PHP
+│   ├─── Settings
+│   ├─── Themes
+│   └─── Xdebug
+├─── Powershell
+├─── Ubuntu
+│   └─── Terminal
+├─── VisualStudioCode
+│   ├─── Settings
+│   ├─── Perso
+│   ├─── Themes
+│   └─── trier
+├─── Windows
+├─── WindowsTerminal
+│   ├─── Settings
+│   ├─── Themes
+│   └─── oh-my-zsh
+└─── WSL
 ```
