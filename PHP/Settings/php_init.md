@@ -16,10 +16,7 @@ extension=curl
 extension=intl
 extension=mbstring
 extension=pdo_mysql
-
 extension=php_openssl.dll # update composer
-
-
 
 # XDEBUG
 zend_extension = xdebug

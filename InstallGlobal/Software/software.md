@@ -1,0 +1,4 @@
+- Visual Studio code
+- Insommania 
+- HeidiSQL
+- MYSQL
