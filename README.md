@@ -25,7 +25,7 @@
 ├─── Veille
 ├─── PHP
 │   ├─── Settings
-│   ├─── Themes
+│   ├─── Version
 │   └─── Xdebug
 ├─── Powershell
 ├─── Ubuntu
