@@ -8,3 +8,9 @@
     
 - [Si problème persiste](https://docs.docker.com/docker-for-windows/troubleshoot/#virtualization)
 - [Mise à jour du noyau Linux WSL 2](https://docs.microsoft.com/fr-fr/windows/wsl/wsl2-kernel)
+
+## settings windows 
+ressouces : 
+    - CPU : 5
+    - memory: 6.00GB
+    - SWAP: 2.5GB

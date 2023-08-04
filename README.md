@@ -1,5 +1,5 @@
 # Tools : 
-
+*Updated on 2023-02-17*
 ```
 ├─── Chrome
 │   └─── Extensions
@@ -25,7 +25,7 @@
 ├─── Veille
 ├─── PHP
 │   ├─── Settings
-│   ├─── Themes
+│   ├─── Version
 │   └─── Xdebug
 ├─── Powershell
 ├─── Ubuntu
