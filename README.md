@@ -2,11 +2,11 @@
 *Updated on 2023-02-17*
 ```
 ├─── Chrome
-│   └─── Extensions
-│   └─── brave
+│   ├─── Extensions
+│   └─── Favoris
 ├─── Composer
-│   └─── Settings
-│   └─── Ubuntu
+│   ├─── Settings
+│   ├─── Ubuntu
 │   └─── Windows
 ├─── Docker
 │   └─── Settings
@@ -22,6 +22,9 @@
 ├─── Laragon
 ├─── MySQL Workbench
 ├─── HeidiSQL
+│   ├─── Settings
+│   ├─── Perso
+│   └─── Pro
 ├─── Veille
 ├─── PHP
 │   ├─── Settings

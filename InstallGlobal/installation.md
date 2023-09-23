@@ -7,10 +7,10 @@
 - Git 
 - Windows Terminal
 - Insommnia / Postman 
-- Heidi SQL
+- Heidi SQL 
 - MYSQL Workbench
 - Laragon
 - Docker Hub 
-- Chrome/Extension
+- Chrome Favoris
 
 ```
