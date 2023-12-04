@@ -1,7 +1,7 @@
 # Tools : 
-> **Note**
-> Update : 23/09/2023
 
+> [!NOTE]  
+> Update : 04/12/2023
 ```
 ├─── Chrome
 │   ├─── Extensions
@@ -32,6 +32,9 @@
 │   ├─── Settings
 │   ├─── Version
 │   └─── Xdebug
+├─── PHPSTORM
+│   ├─── Settings
+│   └─── Erreurs
 ├─── Powershell
 ├─── Ubuntu
 │   └─── Terminal
